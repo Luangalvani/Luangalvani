@@ -1,4 +1,4 @@
-###  Olá, chamo Luan. 
+###  Olá, me chamo Luan. 
 Tenho 20 anos e moro em Blumenau/SC. Cursei com meu ensino médio o técnico em administração, mas me voltei para a area de TI pois é uma area que me chama a atenção. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Unisociesc e estou a procura de uma oportunidade para ingressa na área de TI. 
 
 <!--
