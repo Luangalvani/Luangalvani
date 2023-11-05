@@ -1,5 +1,5 @@
-###  Olá, me chamo Luan. 
-Tenho 20 anos e moro em Blumenau/SC. Cursei com meu ensino médio o técnico em administração, mas me voltei para a area de TI pois é uma area que me chama a atenção. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Unisociesc e estou a procura de uma oportunidade para ingressa na área de TI. 
+###  Olá, meu nome é Luan, tenho 20 anos e moro em Blumenau/SC. 
+Cursei com meu ensino médio o técnico em administração, mas me voltei para a area de TI pois é uma area que me chama a atenção. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Unisociesc e estou a procura de uma oportunidade para ingressa na área de TI. 
 
 <!--
 **Luangalvani/Luangalvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
