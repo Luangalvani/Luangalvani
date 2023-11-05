@@ -1,4 +1,4 @@
-###  Olá, me chamo Luan, tenho 20 anos. 👋
+###  Olá, me chamo Luan, tenho 20 anos moro em Blumenau/SC. 👋
 
 <!--
 **Luangalvani/Luangalvani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
