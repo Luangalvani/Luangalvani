@@ -1,5 +1,5 @@
 ###  Olá, meu nome é Luan, tenho 20 anos e moro em Blumenau/SC. 
-Cursei com meu ensino médio o técnico em administração, mas me voltei para a area de TI pois é uma area que me chama a atenção. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Unisociesc e estou a procura de uma oportunidade para ingressa na área de TI. 
+Cursei com meu ensino médio o técnico em administração, mas me voltei para a area de TI pois é uma area que me chama a atenção. Atualmente estou cursando Analise e Desenvolvimento de Sistemas na Unisociesc e estou a procura de uma oportunidade para ingressar na área de TI. 
 <div>
 <a href="https://www.linkedin.com/in/luan-galvani-8a075422a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
